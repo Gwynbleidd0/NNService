@@ -1,0 +1,17 @@
+{
+    "temp_folder": "temp",
+    "NNKernels": [
+        {
+            "title": "kernel 1",
+            "type": "test",
+            "ip": "127.0.0.1",
+            "port": 9090
+        },
+        {
+            "title": "kernel 1",
+            "type": "test",
+            "ip": "127.0.0.1",
+            "port": 9080
+        }
+    ]
+}
